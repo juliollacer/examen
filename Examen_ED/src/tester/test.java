@@ -21,6 +21,7 @@ public class test {
 	public void test() {
 		assertEquals(10,rest.resta());
 		}
-	}
+
+}
 
 
